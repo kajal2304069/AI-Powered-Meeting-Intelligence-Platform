@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+.env.*
+
+# Generated Data
+downloads/
+outputs/
+vector_db/
+
+# Node
+node_modules/
+
+# Build Files
+build/
+dist/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
